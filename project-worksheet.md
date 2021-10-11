@@ -29,12 +29,12 @@ Include link to your google sheet here.  Here is the sample [Joe had used in cla
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Do not include the actual image and have it render on the page.  
 
 - [Mobile](https://i.imgur.com/m5WzQsd.jpeg)
-- [Desktop](https://i.imgur.com/xpOWo0E.jpg)
+<!-- - [Desktop](https://i.imgur.com/xpOWo0E.jpg) -->
 
-Wireframing Resources:
+<!-- Wireframing Resources:
 
 - [Mockflow](https://mockflow.com/app/#Wireframe)
-- [Figma](https://www.figma.com/)
+- [Figma](https://www.figma.com/) -->
 
 
 ## Time/Priority Matrix 
