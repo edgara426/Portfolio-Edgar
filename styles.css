@@ -30,3 +30,20 @@ p {
    padding: 0px 100px 0px 100px;
    background-color: gainsboro;
 }
+
+/* .col3 {
+    background-image: url(assets/IMG_0954.jpg);
+    background-position: center;
+    background-size: 100% 100%;
+    object-fit: contain;
+    height: 75%;
+} */
+
+p1 {
+    font-family: Kalam, sans-serif; 
+   font-size: 39px;
+   display: flex;
+   justify-content: center;
+   padding: 0px 100px 0px 100px;
+   background-color: gainsboro;
+}
