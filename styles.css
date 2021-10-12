@@ -47,3 +47,12 @@ p1 {
    padding: 0px 100px 0px 100px;
    background-color: gainsboro;
 }
+.row4 {
+    margin-top: 0;
+}
+.project {
+    height: 100px;
+}
+.col-md-6 {
+    padding-right: 100px;
+}
