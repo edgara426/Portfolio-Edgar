@@ -5,7 +5,7 @@ header{
     padding: 0px;
     margin: 0px;
     
-
+    
 }
 h1 {
     font-family: Lobster, sans-serif;
@@ -84,6 +84,8 @@ footer {
     justify-content: center;
     padding-top: 140px;
     color: lavenderblush;
+    margin-top: 0px;
+
 }
 .Sub {
     display: flex;
