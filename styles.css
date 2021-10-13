@@ -78,3 +78,16 @@ footer {
     display: flex;
     justify-content: flex-end;
 }
+
+.backgroundName {
+    display: flex;
+    justify-content: center;
+    padding-top: 140px;
+    color: lavenderblush;
+}
+.Sub {
+    display: flex;
+    justify-content: center;
+    color: lavenderblush;
+    padding-top: 0px;
+}
