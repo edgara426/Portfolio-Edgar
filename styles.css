@@ -53,6 +53,19 @@ p1 {
 .project {
     height: 100px;
 }
-.col-md-6 {
-    padding-right: 100px;
+.Icons {
+    width: 70px;
+    height: 70px;
+    background-size: 100% 100%;
+   
+}
+#contact {
+    background-color: lavender;
+    height: 200px;
+}
+h3 {
+    display: flex;
+    justify-content: center;
+    font-family: Lobster sans-serif;
+    font-size: 40px;
 }
