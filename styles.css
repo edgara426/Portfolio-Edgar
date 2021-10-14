@@ -93,6 +93,16 @@ footer {
     color: lavenderblush;
     padding-top: 0px;
 }
+@media only screen and (max-width: 576px) {
+    .intro {
+        font-size: 30px;
+    }
+  p {
+      font-size: 22px;
+      padding: 10px 10px 12px 10px;
+  }
+}
+
 @media only screen and (min-width: 992px) {
     .row.gx-5 {
         padding-left: 100px;
