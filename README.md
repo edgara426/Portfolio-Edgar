@@ -42,3 +42,24 @@
 
 ## Additional Libraries
  * Icons I used where from [Ionicons](https://ionic.io/ionicons/v4) 
+ * I used [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/) in my HTML
+* I used [A beautiful site](https://www.abeautifulsite.net/posts/smoothly-scroll-to-an-element-without-a-jquery-plugin-2) for my Jquery.
+
+## Code Snippet
+
+```HTML
+<footer>
+        <div class="col">
+          <a class="float-end" id="Icons" href="mailto:edgara426@icloud.com" target="_blank">
+            <ion-icon class="Icons" name="mail"></ion-icon>
+          </a>
+        </div>
+        <div class="col">
+          <a class="float-start" id="Icons" href="https://www.linkedin.com/in/edgar-lopez-de-los-santos/" target="_blank">
+            <ion-icon class="Icons" name="logo-linkedin"></ion-icon>     
+           </a>
+        </div>
+      </div>
+
+      </footer>
+```
